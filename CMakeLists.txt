@@ -6,4 +6,4 @@ if (NOT DEFINED CMAKE_CXX_STANDARD)
     set(CMAKE_CXX_STANDARD 20)
 endif()
 
-add_subdirectory(02_02_generic_p1)
+add_subdirectory(src)

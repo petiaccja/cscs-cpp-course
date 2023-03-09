@@ -1,0 +1,1 @@
+add_subdirectory(02_02_generic_p1)
